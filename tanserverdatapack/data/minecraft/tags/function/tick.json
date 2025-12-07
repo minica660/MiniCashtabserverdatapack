@@ -1,5 +1,7 @@
 {
     "values": [
-        "d:slot/tenshiakuma/tick"
+        "d:slot/tenshiakuma/tick",
+        "d:shift/tick",
+        "d:climb/tick"
     ]
 }
