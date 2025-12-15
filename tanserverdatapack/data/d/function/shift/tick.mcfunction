@@ -1,3 +1,4 @@
+#Shift検知プレディケート
 execute as @a if predicate d:shift at @s run scoreboard players set @s speed 9
 execute as @a if score @s speed matches 9 at @s run effect give @s speed 1 7 true
 
